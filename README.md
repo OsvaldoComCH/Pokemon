@@ -1,0 +1,1 @@
+This is a project that I made way back when I was learning C. It's really bad because I didn't know what I was doing at the time. I'm uploading it here just to archive it.
